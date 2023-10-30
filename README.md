@@ -12,11 +12,17 @@ v2.0_beta2_ver162 (2014) (Unfixed).zip is a *download from Rebbit*, *I'm not sur
 
 ## DLLs
 
+### In v2.0_beta2_ver162 (2014) (Fixed).zip
+
 Assembly-CSharp.dll is a *repaired version*
 
 Assembly-CSharp-cleaned.dll is the *de-obfuscated version*.
 
 Assembly-CSharp-obf.dll is the *version on the original Rebbit*, i.e. *obfuscated*.
+
+### In v2.0_beta2_ver162 (2014) (Unfixed).zip
+
+Assembly-CSharp.dll is the *version on the original Rebbit*, i.e. *obfuscated*.
 
 ## WARNING
 
